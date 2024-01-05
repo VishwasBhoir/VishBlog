@@ -1,0 +1,2 @@
+password encryption (using package 'bcrypt')
+Mongoose Validation

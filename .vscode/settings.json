@@ -1,6 +1,13 @@
 {
-    "cSpell.words": [
-        "blogpost",
-        "fileupload"
-    ]
+  "cSpell.words": [
+    "blogpost",
+    "fileupload",
+    "maxlength",
+    "resave"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#013241",
+    "titleBar.activeBackground": "#02465B",
+    "titleBar.activeForeground": "#F3FCFF"
+  }
 }

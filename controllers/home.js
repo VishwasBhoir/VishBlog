@@ -8,4 +8,5 @@ module.exports = async (req, res) => {
     .catch((err) => {
       console.log("Error: ", err);
     });
+  console.log(req.session);
 };
